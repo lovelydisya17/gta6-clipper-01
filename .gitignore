@@ -1,0 +1,7 @@
+# Generated outputs: never committed. The clip is rebuilt from source with
+#   bash scripts/render-clip.sh
+# and main.ts is checked with
+#   mkdir -p out && MAKEFUN_BOT_DIR=. MAKEFUN_OUTPUT_DIR=out node main.ts
+out/
+clip/
+*.mp4
