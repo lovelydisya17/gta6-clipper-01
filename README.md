@@ -39,7 +39,9 @@ Title: `GTA 6 Is Finally Here, Vice City Is Calling`
 
    Then add one of this bounty's play codes (`makefun-` plus three
    words, from `GET /api/competitions/gta6-clipper-01/play-code`) in the
-   video description, or in the channel description instead.
+   video description, or in the channel description instead. Code 0 for
+   this account in this bounty is `makefun-paper-swallow-robin` (any one
+   of the four codes passes; a play code is not secret).
 4. Copy the video's Share address into `VIDEO.json`:
    `{"url": "https://www.youtube.com/shorts/<id>"}`
 
