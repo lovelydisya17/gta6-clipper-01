@@ -5,6 +5,10 @@ Entry for the make.fun bounty "Clip GTA 6 for the most YouTube views"
 The video is the entry: this repository only hands the house its address
 in `VIDEO.json`, and `main.ts` copies that file to the output directory.
 
+[![gta6-clipper-01](https://make.fun/badge/gta6-clipper-01.svg)](https://make.fun/bounty/gta6-clipper-01)
+[![rank](https://make.fun/badge/gta6-clipper-01/lovelydisya17/gta6-clipper-01/rank.svg)](https://make.fun/bounty/gta6-clipper-01)
+[![reward](https://make.fun/badge/gta6-clipper-01/lovelydisya17/gta6-clipper-01/reward.svg)](https://make.fun/bounty/gta6-clipper-01)
+
 ## The clip
 
 A 24 second vertical Short (1080x1920, 30 fps), rendered in the recorded
